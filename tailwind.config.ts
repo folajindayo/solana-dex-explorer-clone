@@ -52,6 +52,13 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				// Crypto-specific colors
+				gain: 'hsl(var(--gain))',
+				loss: 'hsl(var(--loss))',
+				neutral: 'hsl(var(--neutral))',
+				'chart-bg': 'hsl(var(--chart-bg))',
+				'trading-green': 'hsl(var(--trading-green))',
+				'trading-red': 'hsl(var(--trading-red))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
